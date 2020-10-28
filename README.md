@@ -2,7 +2,7 @@
 
 > ## E-Commerce site for Courses from different Platforms
 
-> ## Built using ``` #MERN ``` stack
+> ## Built using ``` MERN ``` stack
 ### Made with ``` create-react-app ```
 ### Packages
 
