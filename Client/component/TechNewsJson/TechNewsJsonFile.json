@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Blockchain",
+        "tImg": "./Images/blockchain.jpg",
+        "article1": "https://www.blockchain-council.org/blockchain/linkedin-blockchain-is-2020s-most-demanded-tech-skill/",
+        "article2": "https://www.blockchain-council.org/blockchain/uae-launches-health-data-platform-powered-by-blockchain/",
+        "article3": "https://www.blockchain-council.org/blockchain/tips-to-understanding-blockchain-as-a-non-coder/",
+        "article4": "https://www.blockchain-council.org/blockchain/saudi-aramco-invests-in-blockchain-powered-platform-vakt/",
+        "moreLink": "https://www.blockchain-council.org/blockchain"
+    },
+    {
+        "name": "Internet of Things",
+        "tImg": "./Images/iot.jpg",
+        "article1": "https://www.blockchain-council.org/blockchain/linkedin-blockchain-is-2020s-most-demanded-tech-skill/",
+        "article2": "https://www.blockchain-council.org/blockchain/uae-launches-health-data-platform-powered-by-blockchain/",
+        "article3": "https://www.blockchain-council.org/blockchain/tips-to-understanding-blockchain-as-a-non-coder/",
+        "article4": "https://www.blockchain-council.org/blockchain/saudi-aramco-invests-in-blockchain-powered-platform-vakt/",
+        "moreLink": "https://www.blockchain-council.org/blockchain"
+    },
+    {
+        "name": "Network Security",
+        "tImg": "./Images/nwsecurity.jpeg",
+        "article1": "https://www.blockchain-council.org/blockchain/linkedin-blockchain-is-2020s-most-demanded-tech-skill/",
+        "article2": "https://www.blockchain-council.org/blockchain/uae-launches-health-data-platform-powered-by-blockchain/",
+        "article3": "https://www.blockchain-council.org/blockchain/tips-to-understanding-blockchain-as-a-non-coder/",
+        "article4": "https://www.blockchain-council.org/blockchain/saudi-aramco-invests-in-blockchain-powered-platform-vakt/",
+        "moreLink": "https://www.blockchain-council.org/blockchain"
+    },
+    {
+        "name": "Cyber Security",
+        "tImg": "./Images/cybersecurity.jpg",
+        "article1": "https://www.blockchain-council.org/blockchain/linkedin-blockchain-is-2020s-most-demanded-tech-skill/",
+        "article2": "https://www.blockchain-council.org/blockchain/uae-launches-health-data-platform-powered-by-blockchain/",
+        "article3": "https://www.blockchain-council.org/blockchain/tips-to-understanding-blockchain-as-a-non-coder/",
+        "article4": "https://www.blockchain-council.org/blockchain/saudi-aramco-invests-in-blockchain-powered-platform-vakt/",
+        "moreLink": "https://www.blockchain-council.org/blockchain"
+    },
+    {
+        "name": "MERN Stack",
+        "tImg": "./Images/mern.jpg",
+        "article1": "https://www.blockchain-council.org/blockchain/linkedin-blockchain-is-2020s-most-demanded-tech-skill/",
+        "article2": "https://www.blockchain-council.org/blockchain/uae-launches-health-data-platform-powered-by-blockchain/",
+        "article3": "https://www.blockchain-council.org/blockchain/tips-to-understanding-blockchain-as-a-non-coder/",
+        "article4": "https://www.blockchain-council.org/blockchain/saudi-aramco-invests-in-blockchain-powered-platform-vakt/",
+        "moreLink": "https://www.blockchain-council.org/blockchain"
+    },
+    {
+        "name": "MEAN Stack",
+        "tImg": "./Images/mean.jpeg",
+        "article1": "https://www.blockchain-council.org/blockchain/linkedin-blockchain-is-2020s-most-demanded-tech-skill/",
+        "article2": "https://www.blockchain-council.org/blockchain/uae-launches-health-data-platform-powered-by-blockchain/",
+        "article3": "https://www.blockchain-council.org/blockchain/tips-to-understanding-blockchain-as-a-non-coder/",
+        "article4": "https://www.blockchain-council.org/blockchain/saudi-aramco-invests-in-blockchain-powered-platform-vakt/",
+        "moreLink": "https://www.blockchain-council.org/blockchain"
+    }
+]
