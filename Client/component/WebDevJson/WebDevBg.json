@@ -1,0 +1,90 @@
+[
+    {
+        "course_id": "WEB_B_1",
+        "name": "HTML",
+        "level": "Beginner Level",
+        "price": "1000",
+        "prodImg": "./Images/html.png",
+        "courseraPrice": "1000",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300",
+        "uSyllabus": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/"
+    },
+    {
+        "course_id": "WEB_B_2",
+        "name": "Node Js",
+        "level": "Beginner Level",
+        "price": "2000",
+        "prodImg": "./Images/nodejs.jpg",
+        "courseraPrice": "2020",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300",
+        "uSyllabus": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/"
+    },
+    {
+        "course_id": "WEB_B_3",
+        "name": "Angular",
+        "level": "Beginner Level",
+        "price": "1040",
+        "prodImg": "./Images/Angular.jpg",
+        "courseraPrice": "4040",
+        "udemyPrice": "2500",
+        "skillsharePrice": "2300",
+        "uSyllabus": "https://www.udemy.com/course/the-complete-guide-to-angular-2/"
+    },
+    {
+        "course_id": "WEB_B_4",
+        "name": "Bootstrap",
+        "level": "Beginner Level",
+        "price": "1600",
+        "prodImg": "./Images/bootstrap.png",
+        "courseraPrice": "1600",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300",
+        "uSyllabus": "https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/"
+    },
+    {
+        "course_id": "WEB_B_5",
+        "name": "W3CSS",
+        "level": "Beginner Level",
+        "price": "5000",
+        "prodImg": "./Images/css3.jpg",
+        "courseraPrice": "5000",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300",
+        "uSyllabus": "https://www.udemy.com/course/css-grid/"
+    },
+    {
+        "course_id": "WEB_B_6",
+        "name": "React Js",
+        "level": "Beginner Level",
+        "price": "7800",
+        "prodImg": "./Images/React.jpg",
+        "courseraPrice": "7800",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300",
+        "uSyllabus": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+    },
+    {
+        "course_id": "WEB_B_7",
+        "name": "Java Script",
+        "level": "Beginner Level",
+        "price": "5600",
+        "prodImg": "./Images/javascript.png",
+        "courseraPrice": "5600",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300",
+        "uSyllabus": "https://www.udemy.com/course/the-complete-javascript-course/"
+    },
+    {
+        "course_id": "WEB_B_8",
+        "name": "Larvel",
+        "level": "Beginner Level",
+        "price": "2300",
+        "prodImg": "./Images/larvel.jpg",
+        "courseraPrice": "2300",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300",
+        "uSyllabus": "https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/"
+    }
+]
