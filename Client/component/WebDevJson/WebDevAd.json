@@ -1,0 +1,74 @@
+[
+    {
+        "name": "HTML",
+        "level": "Advanced Level",
+        "price": "1000",
+        "prodImg": "./Images/html.png",
+        "courseraPrice": "1000",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300"
+    },
+    {
+        "name": "Node Js",
+        "level": "Advanced Level",
+        "price": "2000",
+        "prodImg": "./Images/nodejs.jpg",
+        "courseraPrice": "2000",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300"
+    },
+    {
+        "name": "Angular",
+        "level": "Advanced Level",
+        "price": "1040",
+        "prodImg": "./Images/Angular.jpg",
+        "courseraPrice": "1040",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300"
+    },
+    {
+        "name": "Bootstrap",
+        "level": "Advanced Level",
+        "price": "1600",
+        "prodImg": "./Images/bootstrap.png",
+        "courseraPrice": "1600",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300"
+    },
+    {
+        "name": "W3CSS",
+        "level": "Advanced Level",
+        "price": "5000",
+        "prodImg": "./Images/css3.jpg",
+        "courseraPrice": "5000",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300"
+    },
+    {
+        "name": "React Js",
+        "level": "Advanced Level",
+        "price": "7800",
+        "prodImg": "./Images/React.jpg",
+        "courseraPrice": "7800",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300"
+    },
+    {
+        "name": "Java Script",
+        "level": "Advanced Level",
+        "price": "5600",
+        "prodImg": "./Images/javascript.png",
+        "courseraPrice": "5600",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300"
+    },
+    {
+        "name": "Larvel",
+        "level": "Advanced Level",
+        "price": "2300",
+        "prodImg": "./Images/larvel.jpg",
+        "courseraPrice": "2300",
+        "udemyPrice": "2000",
+        "skillsharePrice": "2300"
+    }
+]
