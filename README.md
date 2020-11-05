@@ -3,7 +3,7 @@
 > ## E-Commerce site for Courses from different Platforms
 
 > ## Built using ``` MERN ``` stack
-### Made with  [create-react-app](https://www.npmjs.com/package/create-react-app) 
+### Made with  [create-react-app](https://github.com/facebook/create-react-app) 
 ### Packages
 
 ```
